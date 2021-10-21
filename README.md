@@ -1,2 +1,2 @@
 # parking-lot
-interview question practise
+interview question practice
